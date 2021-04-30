@@ -1,0 +1,28 @@
+{
+  "name": "caps-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sns-acme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennerdulce/caps-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennerdulce/caps-cloud/issues"
+  },
+  "homepage": "https://github.com/jennerdulce/caps-cloud#readme",
+  "dependencies": {
+    "aws-sdk": "^2.894.0",
+    "chalk": "^4.1.1",
+    "faker": "^5.5.3",
+    "sqs-consumer": "^5.5.0",
+    "sqs-producer": "^2.1.0",
+    "uuid": "^8.3.2"
+  }
+}
